@@ -1,0 +1,29 @@
+pianku:
+  url: www.pianku.tv
+  h5: true
+  lang: zh-cn
+  desc: 除在线观看外还提供全网下载链接
+
+zlyk:
+  url: www.zlyk.com
+  h5: true
+  lang: zh-cn
+  desc: 
+
+qiongyy:
+  url: www.qiongyy.com
+  h5: false
+  lang: zh-cn
+  desc: 
+
+novipnoad:
+  url: www.novipnoad.com
+  h5: true
+  lang: zh-cn
+  desc: 
+
+xibb:
+  url: www.xibb.com.cn
+  h5: true
+  lang: zh-cn
+  desc: 
