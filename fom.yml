@@ -27,3 +27,17 @@ xibb:
   h5: true
   lang: zh-cn
   desc: 
+
+kuyun:
+  url: kuyun.tv
+  h5: true
+  lang: zh-cn
+  desc: 有广告
+
+yunb:
+  url: yunbtv.com
+  url-more:
+    - yunb.tv
+  h5: true
+  lang: zh-cn
+  desc:
