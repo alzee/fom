@@ -89,3 +89,13 @@ foxiys:
   downloadable: true
   have ads: false
   desc:
+meijutt:
+  title: 不卡美剧
+  url:
+    - https://www.meijutt.cn
+  h5: true
+  lang: zh-cn
+  watch online: true
+  downloadable: false
+  have ads: true
+  desc:
